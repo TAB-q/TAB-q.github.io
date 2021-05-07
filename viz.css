@@ -1,0 +1,29 @@
+#greet {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#project {
+	background-color: grey;
+	color: white;
+	padding: 30px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+.prj {
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+
+#links {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+a {
+	color: light-blue;
+}
+
+p {
+	margin-left: 15px;
+}
